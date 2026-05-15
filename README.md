@@ -106,7 +106,7 @@ data-warehouse-project/
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishadineshjain/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishadineshjain/)
 
 ---
 
@@ -121,5 +121,4 @@ Hi there! I'm **Disha Jain**, I’m an IT professional  on a mission to share kn
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishadineshjain/)]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishadineshjain/)
