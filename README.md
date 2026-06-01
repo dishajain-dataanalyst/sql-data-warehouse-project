@@ -202,3 +202,11 @@ I'm currently seeking **Data Analyst** and **BI Developer** roles where I can ap
 📌 **Skills:** SQL · Power BI · Python · Tableau · Alteryx · Azure · DAX · ETL · Data Modeling · Star Schema
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dishadineshjain)
+
+## 🔗 This Project Is Part of a Series
+
+| Project | What it covers |
+|---------|---------------|
+| **This repo** | Data warehouse: ETL, Medallion Architecture, star schema |
+| [SQL Analytics Project](https://github.com/dishajain-dataanalyst/sql-data-analytics-project) | Advanced SQL analysis on the warehouse data |
+| [Power BI Dashboard](https://github.com/dishajain-dataanalyst/powerbi-adventureworks) | End-to-end BI report: exec dashboard, AI visuals, DAX |
